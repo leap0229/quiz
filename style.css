@@ -1,0 +1,18 @@
+li {
+    list-style: none;
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    background: #FFF;
+    border: solid 1px black;
+    border-radius: 10px;
+    word-wrap:break-word;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+#category, #difficulty{
+    font-weight:bold;
+}
